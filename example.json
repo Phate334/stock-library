@@ -1,0 +1,57 @@
+[
+  {
+    "name": "股癌 Gooaye",
+    "links": [
+      {
+        "name": "粉絲團",
+        "label": "facebook",
+        "url": "https://www.facebook.com/Gooaye/"
+      },
+      {
+        "name": "個人帳號",
+        "label": "facebook",
+        "url": "https://www.facebook.com/mengkunghsieh"
+      },
+      {
+        "name": "網站",
+        "label": "website",
+        "url": "https://gooaye.com/"
+      },
+      {
+        "name": "頻道",
+        "label": "telegram",
+        "url": "https://t.me/Gooaye"
+      }
+    ],
+    "tags": [
+      "media"
+    ]
+  },
+  {
+    "name": "TradingView",
+    "links": [
+      {
+        "name": "網站",
+        "label": "website",
+        "url": "https://tw.tradingview.com/"
+      }
+    ],
+    "tags": [
+      "tool"
+    ]
+  },
+  {
+    "name": "FinMind",
+    "links": [
+      {
+        "name": "網站",
+        "label": "website",
+        "url": "https://finmindtrade.com/"
+      }
+    ],
+    "tags": [
+      "tool",
+      "data"
+    ]
+  }
+]
